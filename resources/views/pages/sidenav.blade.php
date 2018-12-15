@@ -4,7 +4,7 @@
            
 		<div class="navbar-header">
 			<a id="menu-toggle" href="#" class="navbar-toggle">
-					<span class="sr-only">what</span>
+					<span class="sr-only">togglenav</span>
 			        <span class="icon-bar"></span>
 			        <span class="icon-bar"></span>
 			        <span class="icon-bar"></span>
