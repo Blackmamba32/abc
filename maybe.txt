@@ -1,0 +1,72 @@
+frontend:
+General Features:
+• Three tier hierarchy: Category/Subcategory/Product
+• Clear Navigation
+• Easy to integrate into existing site
+• Ability to have multiple navigation based on Manufacturers, Categories &
+Products.
+All selection pages include:
+• Search on item name, key word list, and description
+• Specials button
+• View cart button
+Home page also includes:
+• Category selection
+• Display of featured items
+• Display of Sale items
+• Display of Manufacturers
+• Content Managed Pages
+Product selection pages also include.
+• Clickable Navigation Path at top (Store Directory/Category/Subcategory)
+• Thumbnail image of product with link to detail page
+• Indication of special sale price
+• Up to three option groups per product
+• Automatic price adjustment upon selection of option
+Detail Page also include:
+• Full size image of product with link to high-resolution image in separate
+window
+• Ability to have multiple images
+• Detailed description of product
+• Indication of special sale price
+• Up to three option groups per product
+• Automatic price adjustment upon selection of option
+Shopping Cart features include:
+• Quantity update
+• Indication of savings for sale items
+• Selection of shipping method
+• Coupon Redemption
+Checkout features include:
+• Ability to use shipping field data into billing fields
+• Express checkout for returning customers
+• Progress indicators at bottom of each page throughout checkout
+
+Order review page features include:
+• Easy to read display of shipping/billing/payment information with ability to
+edit this information.
+• Itemized list of products along with tax, shipping and total
+• Text area for delivery instructions and other customer comments
+• Input of password for new customers
+Invoice page features include:
+• Link to printable invoice
+• Instructions to customer on checking order status
+• Delivery of an e-mail confirmation to customer
+Order status review includes:
+• Shipping and billing information of last order
+• List of each order with id, date, status, shipping method, tracking number,
+and amount and a link to a detail page for that order.
+
+Page UX	                       Landing Page Product-Pages	Purpose
+Site Navigation	                       No	  Yes	          Because landing pages are most often used in advertisements
+                                                             to drive targeted consumers back to a specific conversion,
+                                                             landing pages strip the individual page of any other
+                                                            click through opportunities outside of the main CTA. This includes removing site navigation.
+
+Clear Call to Action (CTA)	 Yes	        Yes	  Both landing pages and product pages have a clear CTA (add to cart). On landing pages, 
+                                                          however, this is the only CTA – and often uses language more targeted to the targeted audience 
+                                                           being driven to the page.
+
+Additional CTAs	                    No   	Yes	  Again, landing pages only have 1 CTA. Product pages often include a site navigation for additional
+   + Additional Content                                      browsing as well as similar or related products. Many product pages include multiple lower-level
+                                                           CTAs for those who are not yet ready for purchase.
+
+Product Description          	Yes	        Yes	Both landing pages and product pages include additional product copy. On landing pages, however, 
+                                                       the copy is often re-written for a specific audience, rather than a more general organic or direct audience.
