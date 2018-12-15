@@ -1,7 +1,7 @@
 
 
-    <nav class="navbar navbar-default" role="navigation">
-           
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container-fluid">    
 		<div class="navbar-header">
 			<a id="menu-toggle" href="#" class="navbar-toggle">
 					<span class="sr-only">togglenav</span>
@@ -12,7 +12,8 @@
   			<a  class="navbar-brand" href="/">
                     <img  class="toptab" src="{{URL::asset('https://image4.owler.com/logo/ivy-league-grill_owler_20160228_033338_large.gif')}}"/>
   			</a>
-		</div>
+        </div>
+        </div>
 		<div id="sidebar-wrapper" class="sidebar-toggle">
 			<ul class="sidebar-nav">
 		    	<li>
