@@ -3,17 +3,20 @@
     margin-left:10px;
   
     }
-   
-   
+  
+    .toptab{ 
+        margin-top: -15px;
+     }
 #sidebar-wrapper {
-    top: 52px;
+    top: 60px;
     left: -200px;
     width: 200px;
-    background-color: grey;
-    color: white;
+    background-color:white;
+    color: grey;
     position: fixed;
     height: 100%;
     z-index: 1;
+    
   }
   .sidebar-nav {
     position: absolute;
@@ -28,13 +31,13 @@
     line-height: 50px;
   }
   .sidebar-nav li a {
-    color: white;
+    color: black;
     display: block;
     text-decoration: none;
   }
   .sidebar-nav li a:hover {
     background: rgba(255,255,255,0.25);
-    color: white;
+    color: red;
     text-decoration: none;
   }
   .sidebar-nav li a:active, .sidebar-nav li a:focus {
